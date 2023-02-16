@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 //@Entity
 public class Guardian {
 	@Column(nullable = false)
-	private String GuardianName;
+	Private String GuardianName;
 	@Column(nullable = false)
 	private String GuardianEmail;
 	@Column(nullable = false)
